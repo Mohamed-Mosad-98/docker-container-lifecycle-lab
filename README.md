@@ -134,13 +134,15 @@ Create a custom Docker image from a running Ubuntu container using:
 
 ## Container Creation and Startup
 
-![Container Creation](screenshots/01-container-creation-and-start.png)
+<img width="1777" height="498" alt="2-container-management-and-inspection" src="https://github.com/user-attachments/assets/9fe051aa-dbc9-463f-b4c9-3c020c82b61b" />
+
 
 ---
 
 ## Container Management and Inspection
 
-![Container Management](screenshots/02-container-management-and-inspection.png)
+<img width="1777" height="498" alt="2-container-management-and-inspection" src="https://github.com/user-attachments/assets/fba1c665-9081-442e-82aa-f5d38d3bbe52" />
+
 
 ---
 
